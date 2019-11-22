@@ -1,0 +1,11 @@
+Submit your written answers to the questions.
+
+1. Why are these KPIs key to answering your business question or achieving your project goals?  What specific insight did these KPIs or worksheets provide you?
+Answer -> This KPI work on audience ratings of movies and tell us about how much a movie is successful i.e, flop, hit, or superhit
+
+2. How does your dashboard or worksheet(s) exemplify the use of at least one pre-attentive attribute?
+Answer -> The KPI differentiates movies by color as it can be seen in the dashboard.
+3. How does your dashboard or worksheet(s) exemplify the use of at least one of the following KPI principles?
+Answer -> Use of actions and filters. This KPI is aligned with organizational goals as one can decide where to invest and on which kind of movie such that the profit can be increased.
+4. Do these worksheets meet the needs of your intended audience as-is?    How might they need to be changed before ultimately being presented?
+Answer -> Yes. It clearly shows the characteristics of each king of the movie.

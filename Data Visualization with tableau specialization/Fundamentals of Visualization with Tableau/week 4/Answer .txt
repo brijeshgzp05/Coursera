@@ -1,0 +1,10 @@
+Before any visualization you should be clear that what the data are, how they were collected and who is going to look at it.
+You must be well-versed in data in order to visualize it. You should be clear that who is your audience. Is it your boss or colleague.
+You should be clear that how will you convey your results . Is it a presentation, document or email.
+
+Let us take an example of funding for free courses.
+
+A complete sentence may look like -
+
+This year the students who took classes from our funding performed 10% better than those students who did not take the classes.
+IT is recommended that we should continue the funding to support students and it will also increase company reputation.
